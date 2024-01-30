@@ -25,9 +25,9 @@
 
 ### 部品リスト
 
-| 番号 | パーツ名     | 個数 | STLデータ        | .stepデータ       | 備考               |
+| 番号 | パーツの種類     | パーツ名　|  個数 | STLデータ        | .stepデータ       | 備考               |
 |------|--------------|------|-----------------|-----------------|--------------------|
-| 1    | ベアリング   | 4    | bearing.stl     | bearing.step    | 寸法精度が重要     |
-| 2    | ギア         | 2    | gear.stl        | gear.step       | 歯の形状に注意     |
-| 3    | モーターマウント | 1  | motor_mount.stl | motor_mount.step| 取り付け穴の位置確認 |
+| 1    | サーボモータ  | (KRS-9004HV ICS)[https://kondo-robot.com/product/03204]|3    | bearing.stl     | bearing.step    | 寸法精度が重要     |
+| 2    | ギア         | |2    | gear.stl        | gear.step       | 歯の形状に注意     |
+| 3    | モーターマウント| | 1  | motor_mount.stl | motor_mount.step| 取り付け穴の位置確認 |
 
