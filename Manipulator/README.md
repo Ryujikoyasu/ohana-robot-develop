@@ -104,6 +104,32 @@
 
 ## バリカンの改造とアームとの連結  
 
+左の図から，横に倒すとネジ穴が見えますね．全てのネジを取りましょう．まずは頭部から左右にパカっと分かれます．（２枚目）  
+取手の部分は，隠れてネジが仕込んであるので，それも外すと取手の部分も分かれます．  
+で，バッテリを外部化するため図のように動線を切ります．  
+半分をアームの部分に嵌めます．（４枚目）  
+外れにくくするために，アロンアルファを用います．  
+この方法は分解性を低下させるので，今後改善したいのですが，接着剤を用いないと連結部がすぐに折れたり割れたりします．
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="img/set_balican1.jpg" alt="画像1" style="width: 23%;">
+  <img src="img/set_balican2.jpg" alt="画像2" style="width: 23%;">
+  <img src="img/set_balican3.jpg" alt="画像3" style="width: 23%;">
+  <img src="img/set_balican4.jpg" alt="画像4" style="width: 23%;">
+</div>
+  
+あとは，赤い蓋にハンダゴテ等で穴を開け，  
+他方の半分のバリカン頭部をがっちゃんこして，蓋をしながら導線を通します．  
+ギボシ端子や車用コネクタでバッテリからの導線と繋ぎましょう．  
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="img/set_balican6.jpg" alt="画像2" style="width: 23%;">
+  <img src="img/set_balican7.jpg" alt="画像3" style="width: 23%;">
+</div>
+
+
+#### 余談１：バリカンの構造
+
 <div style="display: flex; justify-content: space-between;">
   <img src="img/balican1.png" alt="画像1" style="width: 20%; height: auto;">
   <img src="img/balican2.png" alt="画像2" style="width: 20%; height: auto;">
@@ -114,6 +140,18 @@
 そこで，リレー回路を用いてArduinoから制御します．後述．  
 ロボットの制御はROS 2を用いているので，ROS 2とArduinoのシリアル通信をします．
 詳細はソフトウェア編で解説します．  
+
+#### 余談2：バリカンの種類
+
+このコラムは，修理の時に役立ちます．
+取手が回転できないタイプのミニ芝刈りバリカンですと，取手部分が取れないので本記事の方法ではアームに接続することができません．必ず，回転できるタイプにしましょう．  
+また，パーツの互換性もありません．モータもギアも何から何まで違います．
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="img/incorrect_balican.jpg" alt="画像1" style="width: 23%;">
+  <img src="img/incorrect_balican2.jpg" alt="画像2" style="width: 23%;">
+  <img src="img/incorrect_balican3.jpg" alt="画像2" style="width: 23%;">
+</div>
 
 
 ## 配線図  
