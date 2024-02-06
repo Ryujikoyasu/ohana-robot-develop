@@ -52,10 +52,9 @@ read-onlyファイルなので，viで編集した場合，`:w !sudo tee %`と�
 
 # アーム制御  
 
-### Moveit 2を用いる意義とシステムの全体像
+### Moveit 2を用いたシステムの全体像
 
 私は [Moveit 2](https://moveit.picknik.ai/humble/index.html) を用いて制御しています．
-実は，hand-eyeキャリブレーションによる精確なマニピュレーションタスク・障害物回避などの，複雑な制御をしていないのでわざわざ Moveit 2を用いなくてもできます．
 
 ![moveit](../img/moveit.png)
 
