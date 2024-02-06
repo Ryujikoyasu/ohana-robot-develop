@@ -45,14 +45,14 @@
 
 | 番号 | パーツ名                        | 型番                                                                                   | 個数 | STLデータ | .stepデータ | 備考             | 値段                  |
 |------|---------------------------------|----------------------------------------------------------------------------------------|------|-----------|-------------|------------------|-----------------------|
-| 1    | サーボモータ  | [KRS-9004HV ICS](https://kondo-robot.com/product/03204)  | 3    | - | -    | -  | 30800円\*3    |
-| 2    | モータ用ホーン  | [アルミサーボホーン（Iカット型）](https://kondo-robot.com/product/02189)     | 3    | -   | -   | -  | 1100円\*3   |
-| 3    | モータ用ベアリング  | [ベアリング付アルミフリーホーン（B3M/KRS-6000シリーズ用）](https://kondo-robot.com/product/02137) | 2    | -  | -   | EE部分は不要なので２個   | 1320円\*2   |
+| 1    | サーボモータ  | [KRS-9004HV ICS](https://kondo-robot.com/product/03204)  | 3    | - | -    | -  | 92400円    |
+| 2    | モータ用ホーン  | [アルミサーボホーン（Iカット型）](https://kondo-robot.com/product/02189)     | 3    | -   | -   | -  | 3300円   |
+| 3    | モータ用ベアリング  | [ベアリング付アルミフリーホーン（B3M/KRS-6000シリーズ用）](https://kondo-robot.com/product/02137) | 2    | -  | -   | EE部分は不要なので２個   | 2640円   |
 | 4    | 通信用アダプタ    | [Dual USBアダプターHS](https://kondo-robot.com/product/02116)  | 1    | -  | -  | -  | 6600円   |
 | 5    | ベース   | -    | 1    | -    | [Download](step/base.step)  | meviyのSUS板金   | 2460円  |
 | 6    | アームリンク     | -     | 1    | -   |  [Download](step/armlink.step)   | meviyのアルミ板金で繋ぎ目要切断 | 20760円 |
-| 7    | 回転軸(NSFRMHM6-82.5)           | [NSFRMHM6-82.5-F11-B8-P4-T11-S8-Q4](https://jp.misumi-ec.com/vona2/detail/110300087260/?HissuCode=NSFRMHM6-39.5-F10-B7-P4-T10-S7-Q4)   | 2    | - | - | misumiで注文で太い方なのでリンク１用 | 500円\*2              |
-| 8    | 回転軸(NSFRMHM6-39.5)           | [NSFRMHM6-39.5-F10-B7-P4-T10-S7-Q4](https://jp.misumi-ec.com/vona2/detail/110300087260/?HissuCode=NSFRMHM6-39.5-F10-B7-P4-T10-S7-Q4)   | 2    | -    | -   | misumiで注文で細い方なのでリンク２用 | 450円\*2              |
+| 7    | 回転軸(NSFRMHM6-82.5)           | [NSFRMHM6-82.5-F11-B8-P4-T11-S8-Q4](https://jp.misumi-ec.com/vona2/detail/110300087260/?HissuCode=NSFRMHM6-39.5-F10-B7-P4-T10-S7-Q4)   | 2    | - | - | misumiで注文で太い方なのでリンク１用 | 1000円           |
+| 8    | 回転軸(NSFRMHM6-39.5)           | [NSFRMHM6-39.5-F10-B7-P4-T10-S7-Q4](https://jp.misumi-ec.com/vona2/detail/110300087260/?HissuCode=NSFRMHM6-39.5-F10-B7-P4-T10-S7-Q4)   | 2    | -    | -   | misumiで注文で細い方なのでリンク２用 | 900円     |
 | 9    | モータマウント1  | -   | 2    | -   | [Download](step/horn2.step)   | 3DPで各自プリント | -  |
 | 10   | モータマウント2   | -     | 2    | -   | [Download](step/horn3.step)  | 3DPで各自プリント | -   |
 | 11   | ネジ，ボルト，ナット等  | -   | -    | -   | -   | 後で調べる  | -  |
