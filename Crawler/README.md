@@ -73,8 +73,8 @@ M10, M6, M4のネジ，ナット，ワッシャ，スプリングワッシャ等
 
 モータから伝わった動力を履帯に伝達するところを記述します．左図がスプロケット，右図がアイドラです．
 <div style="display: flex; justify-content: space-between;">
-  <img src="img/sprocket.png" alt="画像1" style="width: 30%;">
-  <img src="img/idler.png" alt="画像2" style="width: 30%;">
+  <img src="img/sprocket.png" alt="画像1" style="width: 25%;">
+  <img src="img/idler.png" alt="画像2" style="width: 25%;">
 </div>
 
 
