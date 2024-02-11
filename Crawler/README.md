@@ -71,7 +71,7 @@ M10, M6, M4のネジ，ナット，ワッシャ，スプリングワッシャ等
 
 ## 履帯内部のスプロケット，アイドラ周り
 
-モータ周りの項でスプロケット大というのがありました．ここでは，そこに伝わった動力を履帯のチェーンに伝達するところを記述します．
+モータから伝わった動力を履帯に伝達するところを記述します．左図がスプロケット，右図がアイドラです．
 <div style="display: flex; justify-content: space-between;">
   <img src="img/sprocket.png" alt="画像1" style="width: 30%;">
   <img src="img/idler.png" alt="画像2" style="width: 30%;">
